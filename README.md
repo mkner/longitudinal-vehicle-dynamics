@@ -1,3 +1,4 @@
 # vehicle-longitudinal-dynamics
-general model for automotive longitudinal dynamics with testing for various
-terrain and throttle profiles
+
+This tutorial notebook is a model for automotive physics and longitudinal dynamics. 
+Includes test scenarios for various 2-dimensional terrain and throttle profiles. 
