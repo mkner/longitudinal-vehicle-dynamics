@@ -12,10 +12,8 @@
 
 This [tutorial notebook](Longitudinal_Vehicle_Model.ipynb) is a model for automotive longitudinal physics and dynamics. 
 
-Includes test scenarios for various 2-dimensional terrain and throttle profiles.
-
-The reduction to 2D makes it easier to concentrate on the longitudinal dynamics 
-and not be side-tracked with the kinematics of lateral motion.
+Includes test scenarios for various 2-dimensional terrain and throttle profiles.The reduction to 2D makes
+it easier to concentrate on the longitudinal dynamics without being side-tracked by the kinematics of lateral motion.
 
 The object oriented vehicle model expresses dynamics as an equation of forward, reverse
 and opposing forces that would be typical for a vehicle in motion. Characteristic
