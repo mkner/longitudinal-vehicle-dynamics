@@ -22,6 +22,7 @@ the dynamic behavior of the model.
 
 ![car](longitudinal-car-v0.06.png){width=100 height=300}
 
+<img src="longitudinal-car-v0.06.png" alt="car" width="50%"/>
 
 
 
