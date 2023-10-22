@@ -1,10 +1,10 @@
-## Automotive Longitudinal Vehicle Dynamics Tutorial
-#### - Mike Knerr 
+### Automotive Longitudinal Vehicle Dynamics Tutorial
+##### - Mike Knerr 
 
 
 #
 <div>
-<img src="longitudinal-car-v0.06.png" alt="car" width="65%"/>
+<img src="longitudinal-car-v0.06.png" alt="car" width="70%"/>
 <div align="right"><sub>Illustration - Mike Knerr</sub></div>
 </div>
 
