@@ -1,4 +1,6 @@
-# vehicle-longitudinal-dynamics
+# Automotive vehicle longitudinal dynamics Tutorial
+## - Mike Knerr 
+
 
 
 This tutorial notebook is a model for automotive longitudinal physics and dynamics. 
