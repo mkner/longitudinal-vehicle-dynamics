@@ -1,7 +1,13 @@
 ## Automotive Longitudinal Vehicle Dynamics Tutorial
 #### - Mike Knerr 
 
+
 #
+<div>
+<img src="longitudinal-car-v0.06.png" alt="car" width="80%"/>
+<div align="right"><sub>Illustration - Mike Knerr</sub></div>
+</div>
+
 <img src="longitudinal-car-v0.06.png" alt="car" width="65%"/> 
 
 This [tutorial notebook](Longitudinal_Vehicle_Model.ipynb) is a model for automotive longitudinal physics and dynamics. 
