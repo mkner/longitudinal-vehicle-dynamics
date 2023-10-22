@@ -5,7 +5,7 @@
 <img src="longitudinal-car-v0.06.png" alt="car" width="50%"/> 
 <sub>Illustration</sub>
 
-<img src="longitudinal-car-v0.06.png" alt="car" width="50%"<sub>Illustration</sub>/> 
+<img src="longitudinal-car-v0.06.png" alt="car" width="50%" sub=Illustration/> 
 
 
 <font size="0.5">Illustration Mike Knerr</font> .
