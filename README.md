@@ -12,7 +12,13 @@ The object oriented vehicle model expresses dynamics as an equation of forward
 and opposing forces that would be typical necessary for a vehicle in motion. Characteristic
 parameters of the automobile model are set. A basic terrain geometry and motion profile is
 defined. Euler time-step integration yields acelleration, velocity and longitudinal 
-position over time.
+position over time. Graphics show different aspects of the motion plan when run is completed.
+
+The parameters, 2D terrain geometry can be changed and experimented with to learn about 
+the dynamic behavior of the model.
+
+
+
 
 
 
