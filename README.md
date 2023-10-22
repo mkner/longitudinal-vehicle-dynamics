@@ -20,8 +20,9 @@ The parameters, 2D terrain geometry can be changed and experimented with to lear
 the dynamic behavior of the model.
 
 
-<img src="longitudinal-car-v0.06.png" alt="car" width="50%"/> (Illustration Mike Knerr)
+<img src="longitudinal-car-v0.06.png" alt="car" width="50%"/> 
+
 [Tutorial Here](Longitudinal_Vehicle_Model.ipynb)
 
-<src="Longitudinal_Vehicle_Model.ipynb" alt="car"/>
+
 
