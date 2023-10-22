@@ -4,7 +4,7 @@
 
 #
 <div>
-<img src="longitudinal-car-v0.06.png" alt="car" width="65%"/>
+<img src="longitudinal-car-v0.06.png" alt="car" width="60%"/>
 <div align="right"><sub>Illustration - Mike Knerr</sub></div>
 </div>
 
