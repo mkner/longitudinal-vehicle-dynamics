@@ -4,7 +4,7 @@
 #
 <img src="longitudinal-car-v0.06.png" alt="car" width="50%"/> 
 
-This tutorial [Tutorial](Longitudinal_Vehicle_Model.ipynb) notebook is a model for automotive longitudinal physics and dynamics. 
+This [tutorial notebook](Longitudinal_Vehicle_Model.ipynb) is a model for automotive longitudinal physics and dynamics. 
 
 Includes test scenarios for various 2-dimensional terrain and throttle profiles.
 
