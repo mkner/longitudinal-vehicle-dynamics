@@ -20,8 +20,6 @@ The parameters, 2D terrain geometry can be changed and experimented with to lear
 the dynamic behavior of the model.
 
 
-![car](longitudinal-car-v0.06.png){width=100 height=300}
-
 <img src="longitudinal-car-v0.06.png" alt="car" width="50%"/>
 
 
