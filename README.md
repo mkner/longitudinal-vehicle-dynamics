@@ -3,7 +3,7 @@
 
 #
 <img src="longitudinal-car-v0.06.png" alt="car" width="50%"/> 
-<font size="1">Illustration Mike Knerr</font> .
+<font size="0.5">Illustration Mike Knerr</font> .
 
 This [tutorial notebook](Longitudinal_Vehicle_Model.ipynb) is a model for automotive longitudinal physics and dynamics. 
 
