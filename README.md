@@ -10,7 +10,7 @@
 
 # 
 
-This [tutorial notebook](longitudinal_vehicle_dynamics_tutorial) is a model for automotive longitudinal physics and dynamics. 
+This [tutorial notebook](longitudinal_vehicle_dynamics_tutorial.ipynb) is a model for automotive longitudinal physics and dynamics. 
 
 Includes test scenarios for various 2-dimensional terrain and throttle profiles. The reduction to 2D makes
 it easier to concentrate on the longitudinal dynamics without being side-tracked by the kinematics of lateral motion.
