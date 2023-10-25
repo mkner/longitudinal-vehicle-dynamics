@@ -21,7 +21,7 @@ parameters of the automobile model are set. A basic terrain geometry and motion 
 defined. Euler time-step integration yields acceleration, velocity and longitudinal 
 position over time. Graphics show different aspects of the motion plan when run is completed.
 
-The parameters, 2D terrain geometry can be changed and experimented with to learn about 
+The parameters, 2D terrain geometry can be changed to experiment and learn about 
 the dynamic behavior of the model.
 
 
