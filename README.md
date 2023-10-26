@@ -1,5 +1,5 @@
 ### Automotive Longitudinal Vehicle Dynamics Tutorial
-##### - Mike Knerr 
+#### - Mike Knerr 
 
 
 #
